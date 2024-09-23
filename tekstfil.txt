@@ -1,0 +1,2 @@
+Dette er en testfil for mitt nye git-repository.
+Jeg lærer hvordan jeg bruker Git.
